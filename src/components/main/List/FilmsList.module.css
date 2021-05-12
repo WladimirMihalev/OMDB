@@ -1,0 +1,17 @@
+.button {
+  width: 150px;
+  height: 30px;
+  margin: 10px;
+  border: none;
+  border-radius: 3px;
+  background: rgb(34,193,195);
+  background: linear-gradient(121deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%); 
+  margin-left: 45%;
+}
+
+.filmList {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 0 auto;
+}

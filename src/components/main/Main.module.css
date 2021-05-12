@@ -1,0 +1,23 @@
+.input {
+  width: 25vh;
+  height: 5vh;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.head {
+  width: 50%;
+  margin: 0 auto;
+}
+.title {
+  text-align: center;
+}
+.button {
+  width: 35wh;
+  height: 5vh;
+  margin: 10px;
+  margin-left: 35%;
+  border: none;
+  border-radius: 3px;
+  background: rgb(34,193,195);
+  background: linear-gradient(121deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%); 
+}

@@ -1,0 +1,33 @@
+.item {
+  margin: 20px;
+  border: 1px solid rgb(209, 208, 208);
+  border-radius: 5px;
+  width: 310px;
+}
+.title {
+  height: 50px;
+  text-align: center;
+}
+.desc {
+  margin: 5px;
+}
+.text {
+  margin: 0;
+  margin-top: 5px;
+  width: 300px;
+}
+
+.img {
+  height: 460px;
+  width: 300px;
+}
+
+.button {
+  width: 280px;
+  height: 30px;
+  margin: 10px;
+  border: none;
+  border-radius: 3px;
+  background: rgb(34,193,195);
+  background: linear-gradient(121deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%); 
+}
